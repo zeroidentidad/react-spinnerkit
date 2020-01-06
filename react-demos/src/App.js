@@ -18,6 +18,7 @@ function App() {
 
       <header className="header">
         <h2><u>Demos</u></h2>
+        <p>Basado en <a href="https://tobiasahlin.com/spinkit" target="_blank" rel="noopener noreferrer">tobiasahlin.com/spinkit</a> sin necesidad de agregar dependencias usar código base del componente</p>
       </header>
 
       <div className="row">
