@@ -23,60 +23,60 @@ function App() {
       <div className="row">
         <div className="one-third column">
           <RotatePlane />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/RotatePlane" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/RotatePlane" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <ChaseDot />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/ChaseDot" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/ChaseDot" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <Bounce />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/Bounce" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/Bounce" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
       </div>
 
       <div className="row">
         <div className="one-third column">
           <StretchDelay />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/StretchDelay" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/StretchDelay" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <CubeMove />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/CubeMove" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/CubeMove" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <Scaleout />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/Scaleout" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/Scaleout" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
       </div>
 
       <div className="row">
         <div className="one-third column">
           <SkBounce />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/SkBounce" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/SkBounce" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <BounceDelay />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/BounceDelay" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/BounceDelay" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <CircleBounceDelay />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/CircleBounceDelay" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/CircleBounceDelay" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
       </div>             
 
       <div className="row">
         <div className="one-third column">
           <CubeGridScaleDelay />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/CubeGridScaleDelay" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/CubeGridScaleDelay" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <CircleFadeDelay />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/CircleFadeDelay" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/CircleFadeDelay" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
         <div className="one-third column">
           <FoldCubeAngle />
-          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/codebase/FoldCubeAngle" target="_blank" rel="noopener noreferrer">Código</a>
+          <a className="button button-primary u-full-width" href="https://github.com/zeroidentidad/react-spinnerkit/tree/master/codebase/FoldCubeAngle" target="_blank" rel="noopener noreferrer">Código</a>
         </div>
       </div>
 
