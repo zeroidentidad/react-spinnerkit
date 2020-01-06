@@ -1,2 +1,2 @@
 # react-spinnerkit
-Componentes de indicadores de carga animados con CSS basados en tobiasahlin.com/spinkit
+Una colección de componentes de indicadores de carga animados con CSS basado en tobiasahlin.com/spinkit sin dependencias
